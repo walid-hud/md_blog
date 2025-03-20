@@ -1,5 +1,2 @@
-# damn
+### notes for what I learned from this project
 
-did it work 
-
-<hr style="background:red">
